@@ -16,7 +16,7 @@
         return $s;
     }
 
-
+    //Atribuindo o retorno da funçao a uma variavel
     $nome = post('nome');
     $autor = post('autor');
     $usuario = post('usuario');
